@@ -270,3 +270,7 @@
  - Place: Kerala, India
  - Bio: Student, Programming enthusiast
  - Github: [SnappierSoap318](https://github.com/SnappierSoap318)
+ #### Name: [Daniel Campos](https://github.com/DanielCamposs98)
+ - Place: Culiacán, México.
+ - Bio: Systems Engineering Student.
+ - Github: [DanielCamposs98](https://github.com/DanielCamposs98)
